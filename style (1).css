@@ -1,0 +1,53 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color:#eab7a3;; /* Cor de fundo salmão */
+            color: black;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px; 
+        }
+
+        p {
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        li{
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            margin-bottom: 15px;
+        }
+        .container h2 {
+            background-color: #eab7a3;;;
+            color: rgb(0, 0, 0); 
+        }
+
+        
+        .container h2:nth-child(odd) {
+            font-weight: bold;
+        }
+
+      
+
+     
+    
